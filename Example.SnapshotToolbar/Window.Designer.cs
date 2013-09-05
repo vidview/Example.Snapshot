@@ -1,4 +1,4 @@
-﻿namespace Example.VidhanceOnOff
+﻿namespace Example.SnapshotToolbar
 {
 	partial class Window
 	{
@@ -28,7 +28,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.viewer = new Example.VidhanceOnOff.Viewer();
+			this.viewer = new Example.SnapshotToolbar.Viewer();
 			this.SuspendLayout();
 			// 
 			// viewer
