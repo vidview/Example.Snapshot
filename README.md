@@ -1,4 +1,4 @@
-Example.SnapshotToolbar
+Example.Snapshot
 ==============
 
 This example demonstrates how to take snapshots in Vidview.
@@ -6,10 +6,10 @@ This example demonstrates how to take snapshots in Vidview.
 Checking out:
 -------------
 TortoiseGit:
-Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.SnapshotToolbar.git
+Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.Snapshot.git
 
 TortoiseSVN:
-Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.SnapshotToolbar.git/trunk
+Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.Snapshot.git/trunk
 
 Getting started (Visual Studio 2012 Express):
 -------------------------------------

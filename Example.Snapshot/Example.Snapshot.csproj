@@ -7,8 +7,8 @@
     <ProjectGuid>{0C09C114-4A11-4C5C-AB64-B079915EFC79}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Example.SnapshotToolbar</RootNamespace>
-    <AssemblyName>Example.SnapshotToolbar</AssemblyName>
+    <RootNamespace>Example.Snapshot</RootNamespace>
+    <AssemblyName>Example.Snapshot</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
@@ -58,14 +58,6 @@
       <Private>True</Private>
       <HintPath>..\packages\GLib.Sharp.2.28.1.1\lib\glib-sharp.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Geo, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Geo.2.8.0.3688\lib\net40\Imint.Geo.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Geo.Module, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Geo.Module.2.8.0.3688\lib\net40\Imint.Geo.Module.dll</HintPath>
-    </Reference>
     <Reference Include="Imint.Icop, Version=0.1.0.76, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Imint.Icop.0.1.0.76\lib\net40\Imint.Icop.dll</HintPath>
@@ -73,18 +65,6 @@
     <Reference Include="Imint.Icop.Client, Version=0.1.0.76, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Imint.Icop.Client.0.1.0.76\lib\net40\Imint.Icop.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Improc.Match, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Improc.Match.2.8.0.3688\lib\net40\Imint.Improc.Match.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Improc.Match.Feature, Version=2.8.0.3688, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Improc.Match.Feature.2.8.0.3688\lib\net40\Imint.Improc.Match.Feature.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Improc.Utility, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Improc.Utility.2.8.0.3688\lib\net40\Imint.Improc.Utility.dll</HintPath>
     </Reference>
     <Reference Include="Imint.Media, Version=2.8.0.38, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -117,22 +97,6 @@
     <Reference Include="Imint.Vidhance, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Imint.Vidhance.2.8.0.3688\lib\net40\Imint.Vidhance.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Vidhance.Contrast, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Vidhance.Contrast.2.8.0.3688\lib\net40\Imint.Vidhance.Contrast.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Vidhance.Motion, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Vidhance.Motion.2.8.0.3688\lib\net40\Imint.Vidhance.Motion.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Vidhance.Motion.Stabilize, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3688\lib\net40\Imint.Vidhance.Motion.Stabilize.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Vidhance.SkyUp, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Imint.Vidhance.SkyUp.2.8.0.3688\lib\net40\Imint.Vidhance.SkyUp.dll</HintPath>
     </Reference>
     <Reference Include="Imint.Vidview, Version=2.8.0.3688, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -241,10 +205,6 @@
     <Reference Include="Kean.Math.Geometry2D, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.Math.Geometry2D.0.2.0.1037\lib\net40\Kean.Math.Geometry2D.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Geometry3D, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Math.Geometry3D.0.2.0.1037\lib\net40\Kean.Math.Geometry3D.dll</HintPath>
     </Reference>
     <Reference Include="Kean.Math.Matrix, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -361,18 +321,11 @@
   <Import Project="..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets" Condition="Exists('..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets')" />
   <Import Project="..\packages\Cairo.2.0.0.1\build\Cairo.targets" Condition="Exists('..\packages\Cairo.2.0.0.1\build\Cairo.targets')" />
   <Import Project="..\packages\Pango.1.28.3.1\build\Pango.targets" Condition="Exists('..\packages\Pango.1.28.3.1\build\Pango.targets')" />
-  <Import Project="..\packages\Imint.Geo.Module.2.8.0.3688\build\Imint.Geo.Module.targets" Condition="Exists('..\packages\Imint.Geo.Module.2.8.0.3688\build\Imint.Geo.Module.targets')" />
-  <Import Project="..\packages\Imint.Improc.Match.Feature.2.8.0.3688\build\Imint.Improc.Match.Feature.targets" Condition="Exists('..\packages\Imint.Improc.Match.Feature.2.8.0.3688\build\Imint.Improc.Match.Feature.targets')" />
-  <Import Project="..\packages\Imint.Improc.Utility.2.8.0.3688\build\Imint.Improc.Utility.targets" Condition="Exists('..\packages\Imint.Improc.Utility.2.8.0.3688\build\Imint.Improc.Utility.targets')" />
   <Import Project="..\packages\Imint.Media.Input.2.8.0.38\build\Imint.Media.Input.targets" Condition="Exists('..\packages\Imint.Media.Input.2.8.0.38\build\Imint.Media.Input.targets')" />
   <Import Project="..\packages\Imint.Media.Test.2.8.0.23\build\Imint.Media.Test.targets" Condition="Exists('..\packages\Imint.Media.Test.2.8.0.23\build\Imint.Media.Test.targets')" />
   <Import Project="..\packages\Imint.Vidflow.Snapshot.2.8.0.3688\build\Imint.Vidflow.Snapshot.targets" Condition="Exists('..\packages\Imint.Vidflow.Snapshot.2.8.0.3688\build\Imint.Vidflow.Snapshot.targets')" />
   <Import Project="..\packages\Imint.Vidflow.Graph.2.8.0.3688\build\Imint.Vidflow.Graph.targets" Condition="Exists('..\packages\Imint.Vidflow.Graph.2.8.0.3688\build\Imint.Vidflow.Graph.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Contrast.2.8.0.3688\build\Imint.Vidhance.Contrast.targets" Condition="Exists('..\packages\Imint.Vidhance.Contrast.2.8.0.3688\build\Imint.Vidhance.Contrast.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Motion.2.8.0.3688\build\Imint.Vidhance.Motion.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.2.8.0.3688\build\Imint.Vidhance.Motion.targets')" />
   <Import Project="..\packages\Imint.Viewer.2.8.0.3688\build\Imint.Viewer.targets" Condition="Exists('..\packages\Imint.Viewer.2.8.0.3688\build\Imint.Viewer.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3688\build\Imint.Vidhance.Motion.Stabilize.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3688\build\Imint.Vidhance.Motion.Stabilize.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.SkyUp.2.8.0.3688\build\Imint.Vidhance.SkyUp.targets" Condition="Exists('..\packages\Imint.Vidhance.SkyUp.2.8.0.3688\build\Imint.Vidhance.SkyUp.targets')" />
   <Import Project="..\packages\Kean.Platform.Settings.0.2.0.1037\build\Kean.Platform.Settings.targets" Condition="Exists('..\packages\Kean.Platform.Settings.0.2.0.1037\build\Kean.Platform.Settings.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

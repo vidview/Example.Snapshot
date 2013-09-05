@@ -1,4 +1,4 @@
-﻿namespace Example.SnapshotToolbar
+﻿namespace Example.Snapshot
 {
 	partial class Window
 	{
@@ -28,7 +28,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.viewer = new Example.SnapshotToolbar.Viewer();
+			this.viewer = new Example.Snapshot.Viewer();
 			this.SuspendLayout();
 			// 
 			// viewer

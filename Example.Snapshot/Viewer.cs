@@ -2,9 +2,9 @@ using System;
 using Forms = System.Windows.Forms;
 using Settings = Kean.Platform.Settings;
 using Vidhance = Imint.Vidhance;
-using Example.SnapshotToolbar.Extension;
+using Example.Snapshot.Extension;
 
-namespace Example.SnapshotToolbar
+namespace Example.Snapshot
 {
 	public class Viewer : 
 		Forms.UserControl

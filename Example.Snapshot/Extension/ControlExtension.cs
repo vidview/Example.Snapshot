@@ -1,7 +1,7 @@
 ﻿using System;
 using Forms = System.Windows.Forms;
 
-namespace Example.SnapshotToolbar.Extension
+namespace Example.Snapshot.Extension
 {
 	public static class ControlExtension
 	{
