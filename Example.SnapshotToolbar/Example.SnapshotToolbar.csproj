@@ -182,9 +182,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.Core.Error.0.2.0.1037\lib\net40\Kean.Core.Error.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Core.Notify, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Core.Notify, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Core.Notify.0.2.0.978\lib\net40\Kean.Core.Notify.dll</HintPath>
+      <HintPath>..\packages\Kean.Core.Notify.0.2.0.1037\lib\net40\Kean.Core.Notify.dll</HintPath>
     </Reference>
     <Reference Include="Kean.Core.Parallel, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -194,33 +194,33 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.Core.Recycle.0.2.0.1037\lib\net40\Kean.Core.Recycle.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Core.Reflect, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Core.Reflect, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Core.Reflect.0.2.0.978\lib\net40\Kean.Core.Reflect.dll</HintPath>
+      <HintPath>..\packages\Kean.Core.Reflect.0.2.0.1037\lib\net40\Kean.Core.Reflect.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Core.Serialize, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Core.Serialize, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Core.Serialize.0.2.0.978\lib\net40\Kean.Core.Serialize.dll</HintPath>
+      <HintPath>..\packages\Kean.Core.Serialize.0.2.0.1037\lib\net40\Kean.Core.Serialize.dll</HintPath>
     </Reference>
     <Reference Include="Kean.Core.Uri, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.Core.Uri.0.2.0.1037\lib\net40\Kean.Core.Uri.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Draw, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Draw, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Draw.0.2.0.978\lib\net40\Kean.Draw.dll</HintPath>
+      <HintPath>..\packages\Kean.Draw.0.2.0.1037\lib\net40\Kean.Draw.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Draw.Cairo, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Draw.Cairo, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Draw.Cairo.0.2.0.978\lib\net40\Kean.Draw.Cairo.dll</HintPath>
+      <HintPath>..\packages\Kean.Draw.Cairo.0.2.0.1037\lib\net40\Kean.Draw.Cairo.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Draw.OpenGL, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Draw.OpenGL, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Draw.OpenGL.0.2.0.978\lib\net40\Kean.Draw.OpenGL.dll</HintPath>
+      <HintPath>..\packages\Kean.Draw.OpenGL.0.2.0.1037\lib\net40\Kean.Draw.OpenGL.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Draw.Raster, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Draw.Raster, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Draw.Raster.0.2.0.978\lib\net40\Kean.Draw.Raster.dll</HintPath>
+      <HintPath>..\packages\Kean.Draw.Raster.0.2.0.1037\lib\net40\Kean.Draw.Raster.dll</HintPath>
     </Reference>
     <Reference Include="Kean.IO, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -230,9 +230,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.IO.Net.0.2.0.1037\lib\net40\Kean.IO.Net.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.IO.Tap, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.IO.Tap, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.IO.Tap.0.2.0.978\lib\net40\Kean.IO.Tap.dll</HintPath>
+      <HintPath>..\packages\Kean.IO.Tap.0.2.0.1037\lib\net40\Kean.IO.Tap.dll</HintPath>
     </Reference>
     <Reference Include="Kean.Math, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -242,44 +242,45 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Kean.Math.Geometry2D.0.2.0.1037\lib\net40\Kean.Math.Geometry2D.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Math.Geometry3D">
-      <HintPath>..\packages\Kean.Math.Geometry3D.0.2.0.978\lib\net40\Kean.Math.Geometry3D.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Matrix, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Math.Geometry3D, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Math.Matrix.0.2.0.978\lib\net40\Kean.Math.Matrix.dll</HintPath>
+      <HintPath>..\packages\Kean.Math.Geometry3D.0.2.0.1037\lib\net40\Kean.Math.Geometry3D.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Math.Random, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Math.Matrix, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Math.Random.0.2.0.978\lib\net40\Kean.Math.Random.dll</HintPath>
+      <HintPath>..\packages\Kean.Math.Matrix.0.2.0.1037\lib\net40\Kean.Math.Matrix.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Math.Regression, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Math.Random, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Math.Regression.0.2.0.978\lib\net40\Kean.Math.Regression.dll</HintPath>
+      <HintPath>..\packages\Kean.Math.Random.0.2.0.1037\lib\net40\Kean.Math.Random.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Platform, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Math.Regression, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Platform.0.2.0.978\lib\net40\Kean.Platform.dll</HintPath>
+      <HintPath>..\packages\Kean.Math.Regression.0.2.0.1037\lib\net40\Kean.Math.Regression.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Platform.Settings, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Platform, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Platform.Settings.0.2.0.978\lib\net40\Kean.Platform.Settings.dll</HintPath>
+      <HintPath>..\packages\Kean.Platform.0.2.0.1037\lib\net40\Kean.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Xml, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Platform.Settings, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Xml.0.2.0.978\lib\net40\Kean.Xml.dll</HintPath>
+      <HintPath>..\packages\Kean.Platform.Settings.0.2.0.1037\lib\net40\Kean.Platform.Settings.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Xml.Dom, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Xml, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Xml.Dom.0.2.0.978\lib\net40\Kean.Xml.Dom.dll</HintPath>
+      <HintPath>..\packages\Kean.Xml.0.2.0.1037\lib\net40\Kean.Xml.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Xml.Sax, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Xml.Dom, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Xml.Sax.0.2.0.978\lib\net40\Kean.Xml.Sax.dll</HintPath>
+      <HintPath>..\packages\Kean.Xml.Dom.0.2.0.1037\lib\net40\Kean.Xml.Dom.dll</HintPath>
     </Reference>
-    <Reference Include="Kean.Xml.Serialize, Version=0.2.0.978, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Kean.Xml.Sax, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Kean.Xml.Serialize.0.2.0.978\lib\net40\Kean.Xml.Serialize.dll</HintPath>
+      <HintPath>..\packages\Kean.Xml.Sax.0.2.0.1037\lib\net40\Kean.Xml.Sax.dll</HintPath>
+    </Reference>
+    <Reference Include="Kean.Xml.Serialize, Version=0.2.0.1037, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Kean.Xml.Serialize.0.2.0.1037\lib\net40\Kean.Xml.Serialize.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cairo, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -360,7 +361,6 @@
   <Import Project="..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets" Condition="Exists('..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets')" />
   <Import Project="..\packages\Cairo.2.0.0.1\build\Cairo.targets" Condition="Exists('..\packages\Cairo.2.0.0.1\build\Cairo.targets')" />
   <Import Project="..\packages\Pango.1.28.3.1\build\Pango.targets" Condition="Exists('..\packages\Pango.1.28.3.1\build\Pango.targets')" />
-  <Import Project="..\packages\Kean.Platform.Settings.0.2.0.978\build\Kean.Platform.Settings.targets" Condition="Exists('..\packages\Kean.Platform.Settings.0.2.0.978\build\Kean.Platform.Settings.targets')" />
   <Import Project="..\packages\Imint.Geo.Module.2.8.0.3688\build\Imint.Geo.Module.targets" Condition="Exists('..\packages\Imint.Geo.Module.2.8.0.3688\build\Imint.Geo.Module.targets')" />
   <Import Project="..\packages\Imint.Improc.Match.Feature.2.8.0.3688\build\Imint.Improc.Match.Feature.targets" Condition="Exists('..\packages\Imint.Improc.Match.Feature.2.8.0.3688\build\Imint.Improc.Match.Feature.targets')" />
   <Import Project="..\packages\Imint.Improc.Utility.2.8.0.3688\build\Imint.Improc.Utility.targets" Condition="Exists('..\packages\Imint.Improc.Utility.2.8.0.3688\build\Imint.Improc.Utility.targets')" />
@@ -373,6 +373,7 @@
   <Import Project="..\packages\Imint.Viewer.2.8.0.3688\build\Imint.Viewer.targets" Condition="Exists('..\packages\Imint.Viewer.2.8.0.3688\build\Imint.Viewer.targets')" />
   <Import Project="..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3688\build\Imint.Vidhance.Motion.Stabilize.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3688\build\Imint.Vidhance.Motion.Stabilize.targets')" />
   <Import Project="..\packages\Imint.Vidhance.SkyUp.2.8.0.3688\build\Imint.Vidhance.SkyUp.targets" Condition="Exists('..\packages\Imint.Vidhance.SkyUp.2.8.0.3688\build\Imint.Vidhance.SkyUp.targets')" />
+  <Import Project="..\packages\Kean.Platform.Settings.0.2.0.1037\build\Kean.Platform.Settings.targets" Condition="Exists('..\packages\Kean.Platform.Settings.0.2.0.1037\build\Kean.Platform.Settings.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
