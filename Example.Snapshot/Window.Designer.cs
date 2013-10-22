@@ -46,7 +46,7 @@
 			this.Controls.Add(viewer);
 			this.ClientSize = new System.Drawing.Size(784, 562);
 			this.Name = "Window";
-			this.Text = "Vidview Example Getting Started";
+			this.Text = "Vidview Example Snapshot";
 			this.ResumeLayout(false);
 
 		}
