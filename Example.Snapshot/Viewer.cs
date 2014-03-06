@@ -12,7 +12,7 @@ namespace Example.Snapshot
 		Imint.Vidview.Viewer vidview;
 		private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
 		private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
-		private Kean.Core.Uri.Locator locator;
+		private Kean.Uri.Locator locator;
 		private System.Windows.Forms.Button snapshot;
 		private System.Windows.Forms.CheckBox checkBox1;
 
@@ -27,7 +27,7 @@ namespace Example.Snapshot
 				{
 					this.snapshot.Click += (object sender, EventArgs e) =>
 					{
-						if (this.vidview.Snapshot.Capture("original", this.locator = "file:///$(Pictures)snapshot-$(Time:mmssfff).png") && this.checkBox1.Checked)
+						if (this.vidview.Snapshot.Capture("original", this.locator = "file:///$(Pictures)/snapshot-$(Time:mmssfff).png") && this.checkBox1.Checked)
 							System.Diagnostics.Process.Start(locator.PlatformPath);
 					};
 				}
